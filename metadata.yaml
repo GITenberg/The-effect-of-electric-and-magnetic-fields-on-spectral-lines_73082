@@ -1,0 +1,33 @@
+_repo: The-effect-of-electric-and-magnetic-fields-on-spectral-lines_73082
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bohr, Niels
+    aliases:
+    - Bohr, N. (Niels)
+    - Bohr, Niels Henrik David
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '44167'
+    url: http://www.gutenberg.org/2009/agents/44167
+    wikipedia: https://en.wikipedia.org/wiki/Niels_Bohr
+description: ''
+gutenberg_issued: '2024-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73082'
+language: en
+pgterms:marc904: https://archive.org/details/londonedinburg6271914lond
+pgterms:marc905: 20240227034036bohr
+pgterms:marc906: '1914'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aLondon :$bTaylor & Francis, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The effect of electric and magnetic fields on spectral lines
+url: http://www.gutenberg.org/ebooks/73082
